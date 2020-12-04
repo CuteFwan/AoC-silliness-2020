@@ -1,0 +1,9 @@
+*.pyc
+*.pylintrc
+*.json
+*.log
+*.sublime-project
+*.sublime-workspace
+*.txt
+*.iml
+.idea
